@@ -2,6 +2,8 @@
 
 This repository contains the implementation of SR4ZCT (Self-supervised Through-plane Resolution Enhancement for CT Images with Arbitrary Resolution and Overlap) with network architecture comparison and interpolation method analysis.
 
+Paper: Shi, J., Pelt, D. M., & Batenburg, K. J. (2023, October). SR4ZCT: self-supervised through-plane resolution enhancement for CT images with arbitrary resolution and overlap. In International Workshop on Machine Learning in Medical Imaging (pp. 52-61). Cham: Springer Nature Switzerland.
+
 ## Overview
 
 This project implements and extends the SR4ZCT method proposed by Shi et al. (2023), focusing on two key research questions:
